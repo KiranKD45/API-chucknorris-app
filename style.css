@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: greenyellow;
+    overflow: hidden;
+}
+button{
+    height: 80px;
+    width: 250px;
+    border: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: larger;
+    background-color: rgb(106, 44, 221);
+    color:white ;
+    cursor: pointer;
+   position: fixed;
+   top : 50%;
+   left: 42%;
+}
+button:hover{
+ color: rebeccapurple;
+ background-color: #fff;
+}
+h1{
+    
+  margin-top: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+    
+}
